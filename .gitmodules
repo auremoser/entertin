@@ -4,3 +4,6 @@
 [submodule "local-library"]
 	path = local-library
 	url = https://github.com/auremoser/local-library
+[submodule "local-radio"]
+	path = local-radio
+	url = https://github.com/auremoser/local-radio
