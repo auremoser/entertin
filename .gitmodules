@@ -1,3 +1,6 @@
 [submodule "local-band"]
 	path = local-band
 	url = https://github.com/auremoser/local-band
+[submodule "local-library"]
+	path = local-library
+	url = https://github.com/auremoser/local-library
