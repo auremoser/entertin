@@ -7,3 +7,6 @@
 [submodule "local-radio"]
 	path = local-radio
 	url = https://github.com/auremoser/local-radio
+[submodule "local-govt"]
+	path = local-govt
+	url = https://github.com/auremoser/local-govt
