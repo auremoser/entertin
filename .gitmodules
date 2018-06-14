@@ -1,0 +1,3 @@
+[submodule "local-band"]
+	path = local-band
+	url = https://github.com/auremoser/local-band
