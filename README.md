@@ -3,6 +3,7 @@
 Entertin, WI, USA is a digital paper town, a collection of websites that create a presence online for a city that doesn't exist. 
 
 ![pin in map with entertin location](img/pin.png)
+*entertin location, roughly*
 
 ## context
 
