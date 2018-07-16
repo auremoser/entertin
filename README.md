@@ -24,7 +24,7 @@ In old-school print cartography, "paper towns" were fake locations on a map mean
 
 ## what's up with this project?
 
-This project was meant as a test, to see if creating a web presence might automagically lead to points on online maps. There are lots of political, legal, and ethical issues with propogating fake places on the web, so I kept the project prototypical to avoid polluting our shared maps and perspective on the world with more fake news.
+This project was meant as a test, to see if creating a web presence might automagically lead to points on online maps. There are lots of political, legal, and ethical issues with propagating fake places on the web, so I kept the project prototypical to avoid polluting our shared maps and perspective on the world with more fake news.
 
 There's a smattering of thoughts, edge case ideas and unfinished quixotic dreams in the [issues queue](https://github.com/auremoser/entertin/issues). For now, the project is a collection of four simple websites (submoduled in this repo) and live online, which create a web-crawlable fake town.
 
